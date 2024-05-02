@@ -185,4 +185,4 @@ def sum_of_part_of_nums():
     return sum(part_of_nums)
 
 
-print(sum_of_part_of_nums())  # 532445
+print(sum_of_part_of_nums())  

@@ -31,4 +31,4 @@ first_row = first_row.apply(lambda x: print(split_cards(x)))
 
 scratch_cards = scratch_cards.apply(lambda x: print(split_cards(x)))
 
-print(22385 + 512)  # depends on output of print statement and scratch cards (I did it in Jupyter Notebook)
+print(22385 + 512)  # depends on output of print statement in first_row and scratch_cards (I did it in Jupyter Notebook)
